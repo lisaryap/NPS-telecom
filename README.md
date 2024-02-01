@@ -1,7 +1,7 @@
 # Исследование NPS для телекоммуникационной компании
 [Дашборд](https://public.tableau.com/views/NPSProject_16738914841330/sheet5?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)   
 [Презентация](https://drive.google.com/file/d/1DBrr5ZWGosRGCd3nwF0ViYJrkC9Mr7-x/view?usp=share_link)              
-[ipynb](https://github.com/lisaryap/Portfolio/blob/main/NPS%20telecom/NPS%20telecom%20-%20Elizaveta%20Ryapolova.ipynb)
+[ipynb](https://github.com/lisaryap/NPS-telecom/blob/main/NPS%20telecom%20data.ipynb)
 
 ## Описание проекта
 
